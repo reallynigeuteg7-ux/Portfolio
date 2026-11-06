@@ -1,11 +1,33 @@
 [
   {
-    "file": "traceboard.jpg",
-    "source": "https://github.com/reallynigeuteg7-ux/TraceBoard/blob/main/docs/screenshots/board.jpg"
+    "file": "traceboard-clean.png",
+    "source": "https://github.com/reallynigeuteg7-ux/TraceBoard/blob/main/docs/screenshots/board.jpg",
+    "edit": {
+      "date": "2026-11-06",
+      "operation": "Mouse cursor and cursor glow removed; original framing retained",
+      "region": [
+        1090,
+        68,
+        160,
+        110
+      ],
+      "unchangedOutsideRegion": true
+    }
   },
   {
-    "file": "traceboard-detail.jpg",
-    "source": "https://github.com/reallynigeuteg7-ux/TraceBoard/blob/main/docs/screenshots/card-details.jpg"
+    "file": "traceboard-detail-clean.png",
+    "source": "https://github.com/reallynigeuteg7-ux/TraceBoard/blob/main/docs/screenshots/card-details.jpg",
+    "edit": {
+      "date": "2026-11-06",
+      "operation": "Mouse cursor and cursor glow removed; original framing retained",
+      "region": [
+        102,
+        270,
+        144,
+        115
+      ],
+      "unchangedOutsideRegion": true
+    }
   },
   {
     "file": "keyline.jpg",
@@ -16,8 +38,19 @@
     "source": "https://github.com/reallynigeuteg7-ux/KeyLine/blob/main/docs/screenshots/statistics.jpg"
   },
   {
-    "file": "relay.jpg",
-    "source": "https://github.com/reallynigeuteg7-ux/RePlay-/blob/main/docs/workspace.jpg"
+    "file": "relay-clean.png",
+    "source": "https://github.com/reallynigeuteg7-ux/RePlay-/blob/main/docs/workspace.jpg",
+    "edit": {
+      "date": "2026-11-06",
+      "operation": "Mouse cursor and cursor glow removed; original framing retained",
+      "region": [
+        1265,
+        145,
+        145,
+        118
+      ],
+      "unchangedOutsideRegion": true
+    }
   },
   {
     "file": "relay-env.jpg",
@@ -77,9 +110,20 @@
     "source": "Local project screenshot: QuietFrame 0.2 extension"
   },
   {
-    "file": "facade-documents.png",
+    "file": "facade-documents-clean.png",
     "source": "Local Facade Documents 1.3.0 screenshot, 2026-11-05",
-    "note": "Blank order; isolated profile with no CRM access"
+    "note": "Blank order; isolated profile with no CRM access",
+    "edit": {
+      "date": "2026-11-06",
+      "operation": "Mouse cursor and cursor glow removed; original framing retained",
+      "region": [
+        400,
+        582,
+        55,
+        43
+      ],
+      "unchangedOutsideRegion": true
+    }
   },
   {
     "file": "routehub.png",

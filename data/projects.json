@@ -11,10 +11,10 @@
       "WinForms"
     ],
     "year": "2026",
-    "cover": "traceboard.jpg",
+    "cover": "traceboard-clean.png",
     "images": [
-      "traceboard.jpg",
-      "traceboard-detail.jpg"
+      "traceboard-clean.png",
+      "traceboard-detail-clean.png"
     ],
     "tone": "ink",
     "description": "Люди, улики, места и заметки — в одной связанной картине.",
@@ -295,9 +295,9 @@
       "SQLite"
     ],
     "year": "2026",
-    "cover": "relay.jpg",
+    "cover": "relay-clean.png",
     "images": [
-      "relay.jpg",
+      "relay-clean.png",
       "relay-env.jpg"
     ],
     "tone": "ink",
@@ -333,9 +333,9 @@
       "XLS с формулами, локальные правки и офлайн-кэш"
     ],
     "note": "Для подключения к заказам нужен отдельный ключ владельца сайта. На скриншоте — новый пустой заказ без подключения к CRM.",
-    "cover": "facade-documents.png",
+    "cover": "facade-documents-clean.png",
     "images": [
-      "facade-documents.png"
+      "facade-documents-clean.png"
     ],
     "localScreenshots": true,
     "galleryCaption": "Скриншот Windows-приложения."
